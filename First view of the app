@@ -1,0 +1,8 @@
+After installing in your system you will need to open cmd
+
+and check the tool is installed or not in your system or we can say for checking dependencies
+
+-> open cmd
+-> type  -> flutter doctor 
+This command prooves the installation of flutter or shows the dependencies !
+
